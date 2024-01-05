@@ -26,6 +26,7 @@
   },
   "scripts": {
     "start": "craco start",
+    "dev": "concurrently \"npm run start\"  \"npm run mock\"",
     "mock": "node ./mock_server/server.js",
     "build": "craco build",
     "test": "craco test"
@@ -49,6 +50,7 @@
     ]
   },
   "devDependencies": {
-    "@types/lodash.merge": "^4.6.7"
+    "@types/lodash.merge": "^4.6.7",
+    "concurrently": "^7.2.0"
   }
 }
