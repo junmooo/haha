@@ -1,0 +1,297 @@
+{
+  "msg": "success",
+  "code": 1,
+  "data": {
+    "records": [
+      {
+        "album": {
+          "id": 2,
+          "albumName": "window聚焦",
+          "photoIds": null,
+          "albumTitle": "window聚焦",
+          "albumSubTitle": "精选照片",
+          "albumDesc": "截取自window聚焦，精选照片",
+          "remark": null,
+          "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+          "deleteFlag": "01",
+          "hideFlag": "01",
+          "sortOrder": 3,
+          "timeCreated": 1678175848571
+        },
+        "photos": [
+          {
+            "id": "8dd11587-a19a-4897-895a-a99a8f1b4e17",
+            "name": "8dd11587-a19a-4897-895a-a99a8f1b4e17.jpeg",
+            "url": "https://qingbing.top/photo/8dd11587-a19a-4897-895a-a99a8f1b4e17.jpeg",
+            "originalName": "44afc661552d9d94beedff09edad7c0c48eaad8a184be2cd8ed034bfa4c68634.jpeg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682243696419,
+            "sortOrder": 0,
+            "album": 2
+          },
+          {
+            "id": "c0092c61-968f-479f-b6f5-efcbd9d6c657",
+            "name": "c0092c61-968f-479f-b6f5-efcbd9d6c657.jpeg",
+            "url": "https://qingbing.top/photo/c0092c61-968f-479f-b6f5-efcbd9d6c657.jpeg",
+            "originalName": "3dab4cdffc9788229508b366217e2e5531b68d63226a1992c258e7d525d844d6.jpeg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682243691930,
+            "sortOrder": 0,
+            "album": 2
+          },
+          {
+            "id": "ff5bc5f1-b5e9-4d2d-bff5-0cdcd61320cc",
+            "name": "ff5bc5f1-b5e9-4d2d-bff5-0cdcd61320cc.jpeg",
+            "url": "https://qingbing.top/photo/ff5bc5f1-b5e9-4d2d-bff5-0cdcd61320cc.jpeg",
+            "originalName": "74ad0906538a27cb973de50c0a165ff721eabbb45eb40465787c8bd431275e53 (3).jpeg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682243688285,
+            "sortOrder": 0,
+            "album": 2
+          },
+          {
+            "id": "cebed8ec-1d3a-4c79-afe7-e9e8b9773fbe",
+            "name": "cebed8ec-1d3a-4c79-afe7-e9e8b9773fbe.jpeg",
+            "url": "https://qingbing.top/photo/cebed8ec-1d3a-4c79-afe7-e9e8b9773fbe.jpeg",
+            "originalName": "74ad0906538a27cb973de50c0a165ff721eabbb45eb40465787c8bd431275e53 (6).jpeg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682243440402,
+            "sortOrder": 0,
+            "album": 2
+          }
+        ]
+      },
+      {
+        "album": {
+          "id": 7,
+          "albumName": "图标",
+          "photoIds": null,
+          "albumTitle": "图标",
+          "albumSubTitle": "图标",
+          "albumDesc": "图标",
+          "remark": null,
+          "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+          "deleteFlag": "01",
+          "hideFlag": "01",
+          "sortOrder": 0,
+          "timeCreated": 1701619983467
+        },
+        "photos": [
+          {
+            "id": "d0424020-6b85-4c8e-9751-b082d2b7fa77",
+            "name": "d0424020-6b85-4c8e-9751-b082d2b7fa77.png",
+            "url": "https://qingbing.top/photo/d0424020-6b85-4c8e-9751-b082d2b7fa77.png",
+            "originalName": "logo.png",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1701620078402,
+            "sortOrder": 0,
+            "album": 7
+          },
+          {
+            "id": "4967cd47-aeb3-452d-98a4-9dea5dd99d59",
+            "name": "4967cd47-aeb3-452d-98a4-9dea5dd99d59.png",
+            "url": "https://qingbing.top/photo/4967cd47-aeb3-452d-98a4-9dea5dd99d59.png",
+            "originalName": "app-icon.png",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1701620055355,
+            "sortOrder": 0,
+            "album": 7
+          },
+          {
+            "id": "13754dd7-32c1-4d34-9c79-856acdc9ae49",
+            "name": "13754dd7-32c1-4d34-9c79-856acdc9ae49.png",
+            "url": "https://qingbing.top/photo/13754dd7-32c1-4d34-9c79-856acdc9ae49.png",
+            "originalName": "app-icon.png",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1701620046255,
+            "sortOrder": 0,
+            "album": 7
+          }
+        ]
+      },
+      {
+        "album": {
+          "id": 6,
+          "albumName": "专辑名称1",
+          "photoIds": null,
+          "albumTitle": "标题2",
+          "albumSubTitle": "副标题3",
+          "albumDesc": "缩略图",
+          "remark": null,
+          "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+          "deleteFlag": "01",
+          "hideFlag": "00",
+          "sortOrder": 0,
+          "timeCreated": 1682259034431
+        },
+        "photos": [
+          {
+            "id": "d97a86cf-cb3d-476e-a2e1-99e8d34b253b",
+            "name": "d97a86cf-cb3d-476e-a2e1-99e8d34b253b.jpeg",
+            "url": "https://qingbing.top/photo/d97a86cf-cb3d-476e-a2e1-99e8d34b253b.jpeg",
+            "originalName": "0D74ACF3-80E5-4E83-87D3-3DF5E292172A.jpeg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682748815167,
+            "sortOrder": 0,
+            "album": 6
+          },
+          {
+            "id": "cce63f55-d920-4c0d-93fe-c4b3368cb847",
+            "name": "cce63f55-d920-4c0d-93fe-c4b3368cb847.jpg",
+            "url": "https://qingbing.top/photo/cce63f55-d920-4c0d-93fe-c4b3368cb847.jpg",
+            "originalName": "DSC_9645.jpg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682485148292,
+            "sortOrder": 0,
+            "album": 6
+          }
+        ]
+      },
+      {
+        "album": {
+          "id": 1,
+          "albumName": "照片",
+          "photoIds": "0",
+          "albumTitle": "周末出去拍照",
+          "albumSubTitle": "白塘公园",
+          "albumDesc": "周末出去拍照-白塘公园",
+          "remark": "测试备注",
+          "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+          "deleteFlag": "01",
+          "hideFlag": "01",
+          "sortOrder": 0,
+          "timeCreated": 1678175848571
+        },
+        "photos": [
+          {
+            "id": "5f3189a6-a023-4692-8eaa-31390f89eed5",
+            "name": "5f3189a6-a023-4692-8eaa-31390f89eed5.jpg",
+            "url": "https://qingbing.top/photo/5f3189a6-a023-4692-8eaa-31390f89eed5.jpg",
+            "originalName": "DSC_9669.jpg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682244065105,
+            "sortOrder": 5,
+            "album": 1
+          },
+          {
+            "id": "b2215d5d-9324-4c30-af54-9e7a5cab77fb",
+            "name": "b2215d5d-9324-4c30-af54-9e7a5cab77fb.jpg",
+            "url": "https://qingbing.top/photo/b2215d5d-9324-4c30-af54-9e7a5cab77fb.jpg",
+            "originalName": "DSC_9774.jpg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682244050475,
+            "sortOrder": 4,
+            "album": 1
+          },
+          {
+            "id": "7c894c56-ee52-4993-992d-84a1fbc08f39",
+            "name": "7c894c56-ee52-4993-992d-84a1fbc08f39.jpg",
+            "url": "https://qingbing.top/photo/7c894c56-ee52-4993-992d-84a1fbc08f39.jpg",
+            "originalName": "DSC_9744.jpg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682244081792,
+            "sortOrder": 3,
+            "album": 1
+          },
+          {
+            "id": "1f7b4326-dbd8-4e31-8d8d-ac2a920a9642",
+            "name": "1f7b4326-dbd8-4e31-8d8d-ac2a920a9642.jpg",
+            "url": "https://qingbing.top/photo/1f7b4326-dbd8-4e31-8d8d-ac2a920a9642.jpg",
+            "originalName": "DSC_9693.jpg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682258974361,
+            "sortOrder": 2,
+            "album": 1
+          },
+          {
+            "id": "af99b35f-cb68-4a2e-acc0-506b24920851",
+            "name": "af99b35f-cb68-4a2e-acc0-506b24920851.jpg",
+            "url": "https://qingbing.top/photo/af99b35f-cb68-4a2e-acc0-506b24920851.jpg",
+            "originalName": "DSC_9723.jpg",
+            "remark": null,
+            "deleteFlag": "01",
+            "hideFlag": "01",
+            "width": null,
+            "height": null,
+            "uploaderId": "c54f7528-c158-47f9-b388-8ce316dcc031",
+            "timeCreated": 1682258628417,
+            "sortOrder": 1,
+            "album": 1
+          }
+        ]
+      }
+    ],
+    "total": 4,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "hitCount": false,
+    "searchCount": true,
+    "pages": 1
+  }
+}
